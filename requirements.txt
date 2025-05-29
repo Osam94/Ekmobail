@@ -1,0 +1,5 @@
+fastapi
+aiogram==2.22.2
+gunicorn
+uvicorn
+PyPDF2
