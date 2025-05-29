@@ -1,5 +1,9 @@
 fastapi
 aiogram==2.22.2
 gunicorn
+<<<<<<< HEAD
+uvicorn
+=======
 uvicorn
 PyPDF2
+>>>>>>> 0833628 (Initial commit)
